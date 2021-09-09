@@ -2,7 +2,7 @@
 
 # Merhaba, ben Okan UYAR! 
 
-[![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/tfokan)
+[![](https://img.shields.io/github/followers/tfokan?style=social)](https://www.github.com/tfokan)
 
 
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/)
